@@ -48,7 +48,7 @@ you receive, over the year 2017.
 
 Although the script was written for a specific purpose, it should be very easy
 to tweak the hardcoded parameters to generate demo data that fits other use
-cases (see [`demo_reports.main`](demo.py)
+cases (see [`demo_reports.main`](demo_reports.py))
 
 
 ```shell
