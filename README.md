@@ -10,7 +10,7 @@ sender IP addresses based on countries.
 
 # Installation
 ```shell
-git clone https://github.com/lukpueh/dmarc-demo-data
+git clone https://github.com/dmarc-viewer/dmarc-demo-data
 cd dmarc-demo-data
 # TIP: Use virtual environments
 pip install -r requirements.txt
